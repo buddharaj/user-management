@@ -1,0 +1,22 @@
+
+[
+    {
+        "id": "1",
+        "name": "Admin", 
+        "email": "admin@gmail.com",
+        "password": "abcd1234",
+        "role": "ADMIN"
+    },
+    {
+        "id": "2",
+        "name": "Buddharaj Ambhore", 
+        "email": "ambhore.buddharaj@gmail.com",
+        "password": "abcd1234",
+        "role": "USER"
+    },
+    {
+        "name": "Admin", 
+        "email": "admin@gmail.com",
+        "password": "abcd1234"
+    }
+]
